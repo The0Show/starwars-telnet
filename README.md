@@ -1,5 +1,7 @@
 # starwars-telnet
 
+![Website](https://img.shields.io/website?url=http%3A%2F%2Fblinkenlights.the0show.com&up_message=online&down_message=offline&style=plastic&label=telnet&cacheSeconds=30)
+
 A recreation of `towel.blinkenlights.nl`
 
 ```sh
